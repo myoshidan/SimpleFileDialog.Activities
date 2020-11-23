@@ -1,0 +1,2857 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+
+    <!--  SelectFolder Icon  -->
+    <DrawingGroup x:Key="undrawfolder39kl69a19f6e1137410fbcd7972a6c30af7e_0">
+        <DrawingGroup.ClipGeometry>
+            <RectangleGeometry Rect="0,0,929.54484,793.07015" />
+        </DrawingGroup.ClipGeometry>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M972.476,494.54443C972.3247,506.37843,971.78278,519.63673,970.56762,533.60563L1004.65503,491.10184 1004.8947,491.76671A106.32377,106.32377,0,0,0,992.63193,464.58205L992.90178,465.20758z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M972.49883,492.4684L992.28513,464.05091C986.59663,455.48091 979.78399,448.8454 972.00303,444.79791 971.59825,444.58733 971.19209,444.39102 970.78594,444.19636 971.08837,447.39983 972.7384,466.21367 972.49883,492.4684z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M1008.91743,574.96269Q1010.17401,567.5292,1010.8687,560.1292L959.46405,600.503 959.39466,600.1465Q958.23499,604.51476,956.97437,608.7336L1008.79668,574.1776z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M965.32761,573.31625L1011.3345,530.67744 1011.5148,531.41511A167.14279,167.14279,0,0,0,1005.106,492.485L970.36882,535.79839Q968.57093,555.42928,965.32761,573.31625z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M969.495,535.0628L907.95455,473.90674 908.22164,473.15974A139.56272,139.56272,0,0,0,895.76375,498.37924L965.79587,564.79759C967.46314,554.41639,968.65354,544.38914,969.495,535.0628z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M964.18921,574.089Q964.89537,570.2858,965.51436,566.53086L895.22389,499.86737 895.48343,499.11497Q893.73967,503.76791,892.21043,508.72005L892.46518,507.96535z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M959.83119,598.45245L1010.8075,558.41506 1010.95623,559.17961A199.59365,199.59365,0,0,0,1011.55723,532.28053L964.92836,575.49609Q962.69794,587.41106,959.83119,598.45245z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M887.326,571.37446L944.96576,638.19546A240.06189,240.06189,0,0,0,955.09276,611.26675L885.7233,546.36461A193.08059,193.08059,0,0,0,887.00104,572.18097z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M969.80335,444.19415L970.27108,443.95177C958.17103,438.35995,945.50348,439.76843,933.69261,446.83077L971.552,492.47549C971.804,464.06964,969.83234,444.47527,969.80335,444.19415z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M955.50611,613.512A238.50384,238.50384,0,0,1,946.34985,637.79567L998.64532,606.78426 998.74463,607.55686A94.55059,94.55059,0,0,0,1006.9311,585.14015Q1007.95437,580.54541,1008.75122,575.93879L956.31088,610.9064C956.0437,611.77655,955.77974,612.65163,955.50611,613.512z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M971.529,494.59192L932.80129,447.89959 933.09792,447.18548C924.23636,452.63984,915.87576,461.28493,908.61932,472.54348L969.65863,533.20148C970.85027,519.39035,971.38132,506.28811,971.529,494.59192z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M955.58867,609.65759A323.95958,323.95958,0,0,0,963.86994,575.78172L891.96948,509.49531Q889.92748,516.21375,888.31148,523.43766A116.08378,116.08378,0,0,0,885.77302,544.41777L955.539,609.69068z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M1029.65107,681.37457C1021.98654,690.39246,1013.11283,700.25828,1003.2674,710.24195L1056.63068,699.24735 1056.3912,699.91235A106.32581,106.32581,0,0,0,1064.28536,671.15358L1064.09429,671.80758z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M1061.01576,642.75869C1060.83822,642.33831 1060.65065,641.92806 1060.46198,641.51905 1058.6518,644.17923 1047.92291,659.72186 1030.99269,679.79021L1064.35697,670.52328C1065.44189,660.29456,1064.4271,650.83876,1061.01576,642.75869z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M952.22123,754.36475Q948.54208,756.98945,944.88023,759.43468L1006.83356,765.87314 1006.42584,766.55477Q1012.13496,761.63104,1017.38979,756.37477L952.0473,754.68359z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M973.90358,737.4845L1036.5332,733.9884 1036.20159,734.67154A167.14883,167.14883,0,0,0,1056.09595,700.60033L1001.71575,711.80399Q987.81,725.77673,973.90358,737.4845z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M953.638,753.33836L1018.43591,755.01545 1018.06279,755.69919A199.59353,199.59353,0,0,0,1035.68228,735.36513L972.20574,738.90868Q962.88837,746.66281,953.638,753.33836z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M876.5077,789.82194C876.9387,789.33166,877.37459,788.83319,877.824,788.31314A166.10147,166.10147,0,0,0,915.47084,775.13621L914.5363,728.65939Q915.21566,726.83748,915.84524,724.99039L916.84016,774.46664A240.05445,240.05445,0,0,0,941.81539,760.18564L930.82839,674.13907Q931.49685,673.74051,932.19127,673.31994L943.16427,759.2564 943.22363,759.26256A323.98641,323.98641,0,0,0,971.20837,738.45369L959.76951,653.82097Q960.43151,653.27476,961.09466,652.7181L972.53388,737.35357Q975.50344,734.87481,978.37517,732.37757L968.0171,646.63246Q968.67535,646.02606,969.33138,645.409610000001L979.69746,731.222190000001C987.60285,724.290080000001,994.91525,717.326460000001,1001.51179,710.680130000001L993.12026,624.326930000001 993.80244,623.921930000001C991.43977,624.686620000001,989.04727,625.555030000001,986.63518,626.505310000001A122.31369,122.31369,0,0,0,998.0907,608.827380000001L945.29464,640.135510000001A183.51872,183.51872,0,0,1,933.8544,661.452510000001C932.91627,662.445400000001,931.98403,663.452460000001,931.0633,664.486120000001L931.1974,665.536490000001Q930.58318,666.450560000001,929.96162,667.351180000001L929.78325,665.953830000001C929.25809,666.559060000001,928.73855,667.176080000001,928.21925,667.793550000001A172.84257,172.84257,0,0,0,944.33817,639.584550000001L887.1204,573.252490000001C887.8394,579.414750000001,888.8004,585.604350000001,889.93414,591.733020000001A104.979,104.979,0,0,0,870.85314,571.037810000001L871.3032,571.549260000001 860.9456,605.763C864.4596,617.06427,868.04226,629.84084,871.20436,643.50128L890.21793,593.2475Q890.43426,594.38722,890.65832,595.52343L871.69308,645.64807Q876.05108,664.87346,878.49532,682.887L902.27794,640.28253Q902.55378,641.15647,902.82915,642.01811L878.78937,685.08346Q880.35119,697.10437,881.03755,708.49117L910.57555,664.4488Q910.87844,665.26416,911.17232,666.04711L881.32227,710.55486 881.14612,710.23724Q881.39336,714.75005,881.49843,719.15195L915.22165,676.44978Q915.55795,677.28078,915.84612,677.98246L881.53912,721.42346C881.55403,722.33356,881.57336,723.24739,881.57912,724.15018A238.48107,238.48107,0,0,1,880.37721,750.07486L883.65321,746.34941Q882.78321,748.45799,881.95965,750.50789L880.09683,752.62625C879.94893,753.90938,879.78611,755.17986,879.61603,756.44407Q878.66331,758.90227 877.78395,761.24024 878.49879,756.84581 879.01706,752.39787L804.09806,706.99994C825.67834,754.00436,863.72277,797.70224,866.15696,800.47479Q868.61143,795.17535,870.58539,789.63458C871.0325,789.56606 871.47916,789.49207 871.92581,789.41876 871.77137,789.86176 871.62043,790.30811 871.46231,790.74768 871.22891,790.78601 870.99458,790.82954 870.76145,790.86654Q871.0515,790.93011 871.36972,790.99854 869.96461,794.87996 868.36942,798.58222C869.86824,797.06932 872.11412,794.73122 874.83398,791.70566 892.04326,795.05137 938.21232,801.64929 976.48767,785.73156L915.85598,776.17062A167.75437,167.75437,0,0,1,876.5077,789.82194z M914.1937,711.61909L915.54544,710.08194 915.58934,712.26482 914.2376,713.80197z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M1059.70673,640.89067L1060.22158,641.00231C1054.46874,628.97791,1043.81394,621.98317,1030.21286,619.88931L1030.25886,679.19171C1048.57067,657.47456,1059.54971,641.12564,1059.70673,640.89067z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M940.70166,762.17852A238.506,238.506,0,0,1,918.16107,775.04152L978.21807,784.51168 977.80179,785.17001A94.55527,94.55527,0,0,0,998.40465,773.12643Q1002.12329,770.24017,1005.67517,767.20043L942.98334,760.68493C942.22256,761.18475,941.46114,761.69036,940.70166,762.17852z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M1002.82507,709.35089C1012.55177,699.47376,1021.31752,689.72124,1028.8914,680.80717L1028.84474,620.14405 1029.52866,619.78332C1019.2248,618.33222,1007.27145,619.65796,994.50183,623.70095z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M870.3591,570.63982C862.30028,564.24774 853.77024,560.04296 845.11926,558.59882 844.6692,558.52368 844.22226,558.46252 843.7758,558.40292 845.05364,561.35592 852.4381,578.7385 860.32564,603.78161z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M870.63466,645.21864L793.20466,606.07934 793.22776,605.28634A139.55837,139.55837,0,0,0,789.17529,633.12152L876.30763,674.64075C874.68445,664.25255,872.71708,654.3484,870.63466,645.21864z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M876.57562,676.37611L789.12171,634.70369 789.13607,633.9079Q788.91572,638.8719,788.99207,644.05433L789.00107,643.25785 877.65146,683.97373Q877.14762,680.1385,876.57562,676.37611z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M880.49214,722.14265L794.45854,681.86057A193.07678,193.07678,0,0,0,803.65354,706.01779L803.71327,705.15034 879.18457,750.88287A240.06793,240.06793,0,0,0,880.49214,722.14265z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M842.84071,558.70447L843.21051,558.32947C829.97464,556.75147,818.36275,562.00656,809.31325,572.37375L859.42725,604.08109C850.88673,576.98828,842.9552,558.96286,842.84071,558.70447z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M860.05965,606.10088L808.796,573.66566 808.8573,572.89486C802.11571,580.82119,796.83658,591.6272,793.41558,604.57731L870.215,643.39788C867.07928,629.89478,863.5344,617.27,860.05965,606.10088z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF57B894">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M880.46637,720.459A323.98335,323.98335,0,0,0,877.87113,685.68228L789.00261,644.86608Q789.13736,651.88665,789.83333,659.25637A116.0884,116.0884,0,0,0,793.90411,679.99373L880.42937,720.5058z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FFF2F2F2">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M808.04953,514.426L549.94194,481.8907C538.24354,384.58063,555.91747,289.5797,586.09225,195.10449L844.19984,227.63976C805.25206,320.32433,793.81967,415.98657,808.04953,514.426z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="0.9921,0.1251,-0.1251,0.9921,-98.7337,-139.0574">
+            <GeometryDrawing Brush="#FF6C63FF">
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="620.4619,239.3209,158.9806,17.0806" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896" Transform="0.9921,0.1251,-0.1251,0.9921,-94.2415,-137.7833">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="584.3123,280.0062,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896" Transform="0.9921,0.1251,-0.1251,0.9921,-90.845,-137.1368">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="580.8616,307.3813,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896" Transform="0.9921,0.1251,-0.1251,0.9921,-87.4485,-136.4904">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="577.4109,334.7563,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896" Transform="0.9921,0.1251,-0.1251,0.9921,-84.0519,-135.8439">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="573.9602,362.1314,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896" Transform="0.9921,0.1251,-0.1251,0.9921,-80.6554,-135.1974">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="570.5094,389.5064,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896" Transform="0.9921,0.1251,-0.1251,0.9921,-77.2589,-134.5509">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="567.0587,416.8815,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896" Transform="0.9921,0.1251,-0.1251,0.9921,-73.8624,-133.9044">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="563.608,444.2565,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FFE6E6E6">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M685.822,418.558L444.34672,321.7708C457.65205,224.6674,498.78955,137.2303,551.88805,53.46493L793.36333,150.25213C732.23048,230.0652,696.96406,319.72145,685.822,418.558z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="0.9282,0.372,-0.372,0.9282,-39.0621,-285.2371">
+            <GeometryDrawing Brush="#FF6C63FF">
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="569.2029,124.7752,158.9806,17.0806" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896" Transform="0.9282,0.372,-0.372,0.9282,-27.9089,-276.5797">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="524.0961,162.2762,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896" Transform="0.9282,0.372,-0.372,0.9282,-19.1174,-270.922">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="513.8308,187.8872,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896" Transform="0.9282,0.372,-0.372,0.9282,-10.3259,-265.2644">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="503.5655,213.4983,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896" Transform="0.9282,0.372,-0.372,0.9282,-1.5344,-259.6068">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="493.3002,239.1093,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896" Transform="0.9282,0.372,-0.372,0.9282,7.2572,-253.9492">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="483.0349,264.7203,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896" Transform="0.9282,0.372,-0.372,0.9282,16.0487,-248.2915">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="472.7696,290.3313,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896" Transform="0.9282,0.372,-0.372,0.9282,24.8402,-242.6339">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="462.5042,315.9423,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FFF2F2F2">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M626.10441,441.86819L365.95432,441.86819C342.17782,346.78519,347.83185,250.31977,365.95432,152.81253L626.10441,152.81253C599.05388,249.64034,599.6751,345.98129,626.10441,441.86819z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FF6C63FF">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="270.8004,128.9101,158.9806,17.0806" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Opacity="0.30000001192092896">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="239.267,170.2976,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="239.267,197.8893,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="239.267,225.481,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="239.267,253.0727,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="239.267,280.6643,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="239.267,308.256,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.30000001192092896">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.3" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="239.267,335.8477,215.4779,8.5403" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF3F3D56">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M450.74936,384.16287L361.12448,314.48568A10.23093,10.23093,0,0,0,352.25523,309.35458L303.88286,309.35458A10.23092,10.23092,0,0,0,293.65194,319.5855L293.65194,746.52659A33.18514,33.18514,0,0,0,326.83708,779.71173L823.39922,779.71173A33.18513,33.18513,0,0,0,856.58435,746.52659L856.58435,414.32549A30.16262,30.16262,0,0,0,826.42174,384.16287z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FF6C63FF">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="614.3996,429.7086,90.0692,31.5242" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FFF2F2F2">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M135.22758,844.57613C135.22758,844.57613,547.16723,608.98892,1044.60378,844.57613" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FFFBBEBE">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M223.454,303.94988C223.454,303.94988,227.87519,327.38215,224.78036,329.15062A53.74333,53.74333,0,0,0,217.70647,334.45604L225.6646,345.50904 244.67568,349.4881 262.80253,332.68761 262.80253,315.88708C262.80253,315.88708 257.49711,307.48683 258.38135,302.18141 259.26559,296.87599 223.454,303.94988 223.454,303.94988z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.10000000149011612" Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.1" Color="#FF000000" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M223.454,303.94988C223.454,303.94988,227.87519,327.38215,224.78036,329.15062A53.74333,53.74333,0,0,0,217.70647,334.45604L225.6646,345.50904 244.67568,349.4881 262.80253,332.68761 262.80253,315.88708C262.80253,315.88708 257.49711,307.48683 258.38135,302.18141 259.26559,296.87599 223.454,303.94988 223.454,303.94988z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF2F2E41">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M192.94779,344.18264L190.29508,345.509C190.29508,345.509 184.54755,347.71959 181.89484,366.73068 179.24213,385.74177 173.05247,431.27994 174.82095,432.6063 176.58943,433.93266 175.70518,442.77502 175.70518,442.77502L188.96873,373.36245z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF2F2E41">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M224.38658,236.281C223.98215,237.125 223.84034,238.1104 223.4609,238.97017 221.73777,242.87462 216.83248,242.00093 213.29439,243.47778 210.298,244.72851 208.06166,248.16299 207.82719,251.87408 207.72765,253.44964 207.95865,255.03872 207.81704,256.60987 207.55544,259.51209 206.05904,262.06787 205.52642,264.91894 204.2326,271.84494 207.2515,282.78257 210.66025,279.04487 211.73518,277.86621 213.08068,277.08487 214.24175,276.02387 217.2572,273.26833 218.79296,268.88696 221.24236,265.4482A3.69671,3.69671,0,0,1,222.48595,264.21562C224.27574,263.32626,225.86908,265.70672,227.28395,267.26708A7.51228,7.51228,0,0,0,238.55395,267.05188A6.61413,6.61413,0,0,1,240.1417,265.42968A3.38568,3.38568,0,0,1,242.34822,265.21313A14.48612,14.48612,0,0,1,251.18244,270.47313C252.36387,271.91906 253.35185,273.62021 254.76797,274.74124 256.18409,275.86227 258.25016,276.2316 259.52549,274.89924 262.09227,276.7139 263.04972,280.56612 263.05649,284.07416 263.06326,287.5822 262.34459,291.06758 262.5199,294.56963 262.69521,298.07168 264.07011,301.85129 266.8609,303.13619A12.47534,12.47534,0,0,1,271.48017,295.05456C273.38094,293.63981 275.69109,292.93893 277.29854,291.09248 280.51675,287.39578 279.49702,281.24684 279.62063,275.97297 279.77308,269.46827 282.02734,263.24957 282.42563,256.75913 282.62463,253.51555 282.28954,250.03793 280.58238,247.47125A15.26182,15.26182,0,0,0,275.77521,243.30686L260.6001,233.57118A6.47632,6.47632,0,0,0,258.35031,232.50386C256.11636,232.10303,254.18536,234.19815,252.0676,235.12141A12.7216,12.7216,0,0,1,246.55354,235.79023C240.66242,235.63061,239.00428,236.77472,235.04444,232.93647A2.79129,2.79129,0,0,0,232.6526,232.13847C230.28423,232.5139,225.6822,233.57715,224.38658,236.281z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FFFBBEBE">
+            <GeometryDrawing.Geometry>
+                <PathGeometry Figures="M97.511,716.92L97.511,716.92 106.795,737.257 88.668,743.447 79.384,738.584 81.595,716.92 97.511,716.92z" FillRule="Nonzero" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF2F2E41">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M224.33819,787.62726C224.33819,787.62726 209.74829,778.7849 207.09558,781.87972 204.44287,784.97454 183.22119,807.52258 183.22119,807.52258 183.22119,807.52258 150.50444,825.20731 175.70519,827.86002 200.90594,830.51273 242.02293,812.38588 242.02293,812.38588 242.02293,812.38588 244.23352,788.5115 242.46505,788.06938 240.69658,787.62726 233.18057,792.04844 229.64362,790.72209A15.85373,15.85373,0,0,1,224.33819,787.62726z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FFFBBEBE">
+            <GeometryDrawing.Geometry>
+                <PathGeometry Figures="M121.385,738.584L121.385,738.584 121.385,756.71 97.511,751.405 102.816,732.836 121.385,738.584z" FillRule="Nonzero" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF2F2E41">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M232.29632,798.2381C232.29632,798.2381 256.61282,794.25904 258.82342,806.19623 261.03402,818.13342 266.78154,835.81815 261.03401,840.23934 255.28648,844.66053 225.66455,850.40806 225.22243,842.89205 224.78031,835.37604 228.31726,820.78613 228.31726,820.78613 228.31726,820.78613 230.52785,809.29106 229.20149,806.19623 227.87513,803.1014 232.29632,798.2381 232.29632,798.2381z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF2F2E41">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M183.728,499.69477C183.728,499.69477 163.768,626.2541 180.12638,688.15065 196.48476,750.0472 207.97982,786.743 207.97982,786.743 207.97982,786.743 236.27538,778.78487 236.27538,773.47945 236.27538,768.17403 225.22238,689.47698 222.56972,681.96097 219.91706,674.44496 215.49583,671.79225 219.47489,665.60259 223.45395,659.41293 230.08573,619.62229 230.08573,619.62229 230.08573,619.62229 244.67563,685.49791 245.55987,687.26639 246.44411,689.03487 236.27538,790.28 236.27538,790.28 236.27538,790.28 265.45991,811.45916 267.22366,795.58542 267.66578,791.60636 287.11898,650.57063 287.11898,648.80216 287.11898,647.03369 295.07711,511.7455 282.25568,505.11372 269.43425,498.48194 183.728,499.69477 183.728,499.69477z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FFFBBEBE">
+            <GeometryDrawing.Geometry>
+                <EllipseGeometry
+                    Center="105.469,229.2633"
+                    RadiusX="30.064"
+                    RadiusY="30.064" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF6C63FF">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M234.06479,342.41417L234.06479,339.31934 225.22243,324.72944C225.22243,324.72944 216.38006,325.61368 215.05371,329.59274 213.72736,333.5718 198.69533,365.40432 198.69533,365.40432L182.77907,508.20852C182.77907,508.20852 226.54878,518.81936 233.18056,511.30335 239.81234,503.78734 265.01307,340.20358 265.01307,340.20358L268.55,320.30826C268.55,320.30826 262.47672,311.46589 261.09218,312.79226 259.70764,314.11863 236.71748,339.76147 236.71748,339.76147L236.27536,343.74054z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF2F2E41">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M225.00137,321.85567C225.00137,321.85567 216.82218,319.86614 214.16947,324.72944 211.51676,329.59274 211.51676,331.36121 208.86405,333.12969 206.21134,334.89817 190.7372,342.85629 189.85297,345.95112 188.96874,349.04595 169.95764,446.75412 169.95764,446.75412 169.95764,446.75412 160.67316,475.93393 165.09434,495.82925 169.51552,515.72457 166.4207,519.70363 175.70518,521.47211 184.98966,523.24059 186.31602,523.24058 186.31602,520.58787 186.31602,517.93516 198.25321,428.18515 206.65346,421.9955 215.05371,415.80585 212.84312,348.16175 212.84312,348.16175 212.84312,348.16175 224.78031,333.57185 224.78031,331.36125 224.78031,329.15065 226.76984,321.68985 225.00137,321.85567z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF2F2E41">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M249.98105,337.993C251.21454,338.19858 268.1079,316.3292 269.43425,317.21344 270.7606,318.09768 277.39238,329.59275 278.27662,329.59275 279.16086,329.59275 316.74091,338.87723 319.83574,356.11985 322.93057,373.36247 298.17194,428.18512 298.17194,428.18512 298.17194,428.18512 287.5611,459.57552 289.77169,473.28119A92.33161,92.33161,0,0,1,288.88746,504.67158C288.00322,508.20858 284.90839,512.18758 285.79263,513.95607 286.67687,515.72456 266.33943,511.74548 257.93918,516.60878 249.53893,521.47208 211.95888,525.00902 214.16947,519.7036 216.38006,514.39818 217.70647,493.6186 223.89607,471.51271 230.08567,449.40682 246.00199,397.23685 243.34928,393.6999 240.69657,390.16295 247.32834,337.55087 249.98105,337.993z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF2F2E41">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M314.53032,350.81442L320.27785,356.11984C320.27785,356.11984 326.90963,367.61491 326.02539,372.92033 325.14115,378.22575 344.59439,458.24916 336.63623,460.90187 328.67807,463.55458 309.66702,476.81812 307.45642,480.35507 305.24582,483.89202 299.94042,490.08167 296.40347,491.85014 292.86652,493.61861 289.32958,496.71344 287.11898,494.94497 284.90838,493.1765 280.04509,456.9228 283.58204,455.59645 287.11899,454.2701 290.65593,450.29103 294.19288,450.29103 297.72983,450.29103 299.94041,446.75408 299.94041,443.65925 299.94041,440.56442 297.2877,421.99546 297.2877,421.99546L291.54017,378.22575z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-135.2276,-53.4649">
+            <GeometryDrawing Brush="#FF2F2E41">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M229.69061,240.68036C229.33301,241.31836 229.20761,242.06331 228.87212,242.71326 227.34852,245.66485 223.01124,245.00438 219.88284,246.12081A7.48785,7.48785,0,0,0,215.04873,252.46805C214.96073,253.65911 215.16496,254.86038 215.03973,256.04811 214.80843,258.24205 213.48528,260.17411 213.01436,262.3294 211.87036,267.56512 214.53968,275.83353 217.55371,273.00799 218.50416,272.11699 219.69387,271.52633 220.72049,270.72427 223.38677,268.6412 224.74469,265.32907 226.91049,262.72952A3.08536,3.08536,0,0,1,228.01008,261.79774C229.59262,261.12542,231.00146,262.92495,232.25249,264.10451A7.41424,7.41424,0,0,0,242.21743,263.94183A5.48152,5.48152,0,0,1,243.62133,262.71552A3.4624,3.4624,0,0,1,245.57233,262.55181A13.36681,13.36681,0,0,1,253.38359,266.52817A21.36315,21.36315,0,0,0,256.55393,269.75468C257.80606,270.60213 259.63293,270.88132 260.76055,269.87414 263.03011,271.24595 263.87669,274.15805 263.88269,276.80998 263.88869,279.46191 263.25322,282.0967 263.40823,284.7441 263.56324,287.3915 264.77893,290.24872 267.24657,291.2201A9.23987,9.23987,0,0,1,271.33095,285.11074C273.01162,284.04125 275.05427,283.51141 276.47558,282.11558 279.32114,279.32103 278.41949,274.6727 278.52878,270.68588 278.66358,265.76861 280.65678,261.06755 281.00898,256.16105 281.18498,253.70905 280.88865,251.08012 279.37917,249.13982A13.12406,13.12406,0,0,0,275.12865,245.99173L261.71075,238.63197A6.1977,6.1977,0,0,0,259.72147,237.82513C257.7462,237.52213,256.0388,239.10594,254.16627,239.80388A13.03789,13.03789,0,0,1,249.29072,240.30948C244.08172,240.18882,242.61563,241.05371,239.11431,238.15216A2.73775,2.73775,0,0,0,236.99944,237.54893C234.90535,237.83258,230.8362,238.63634,229.69061,240.68036z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+    </DrawingGroup>
+    <DrawingBrush x:Key="SelectFolderIcon" Drawing="{StaticResource undrawfolder39kl69a19f6e1137410fbcd7972a6c30af7e_0}" />
+
+    <!--  SelectFile Icon  -->
+    <DrawingGroup x:Key="undrawmyfilesswob9d9a35539b134db19508e040ae75406b_0">
+        <DrawingGroup.ClipGeometry>
+            <RectangleGeometry Rect="0,0,777.00073,407.99846" />
+        </DrawingGroup.ClipGeometry>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FFF2F2F2">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M986.84973,543.39925C982.77991,569.26925 970.16956,594.37925 949.3595,610.26925 928.8795,625.91925 902.63977,631.47925 877.30969,636.25925Q831.73987,644.86925 785.91956,651.99925 779.42444,653.03425 772.91956,653.99925L594.99963,653.99925C594.81946,653.75925 594.62952,653.50925 594.44983,653.25925 594.15983,652.83925 593.86975,652.41925 593.58948,651.99925 593.42981,651.75925 593.26965,651.50925 593.10948,651.25925L704.70959,651.25925A11.96072,11.96072,0,0,0,716.65979,639.31925L716.65979,490.35925C717.37952,488.09925,718.04944,485.82925,718.65979,483.5293A180.05237,180.05237,0,0,0,724.18958,450.8193C724.78967,443.1193 724.96985,435.4193 724.83948,427.7093 724.46985,406.5193 721.69983,385.3293 718.68958,364.2893 718.46985,362.7393 718.23987,361.1793 718.01965,359.6293 715.89954,345.0093 713.96985,329.0993 721.33948,316.2893 729.76965,301.6293 748.47961,295.5193 765.32971,297.0193 795.63977,299.7293 821.16956,322.9393 834.43958,350.3293 847.69983,377.7093 850.66958,408.8493 851.87952,439.2493 852.51965,455.3693 852.44983,472.2093 850.19983,488.3793Q861.59924,462.3093,873.01965,436.2393C877.07971,426.9693 881.34973,417.3993 888.86975,410.6193 904.58948,396.4293 930.58948,399.2893 947.37952,412.2093 964.15979,425.1393 973.35952,445.5693 979.47961,465.8393 987.05969,490.9092 990.92981,517.52926 986.84973,543.39925z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FFFFFFFF">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M919.79782,402.88685C930.79012,422.35515,935.8332,444.67894,935.71251,466.95641A155.08734,155.08734,0,0,1,921.38114,530.886A160.6074,160.6074,0,0,1,886.91457,579.18463A146.33182,146.33182,0,0,1,837.383,610.825A129.43749,129.43749,0,0,1,770.17223,617.21153Q765.46816,616.40314,760.83362,615.25172C758.95921,614.78972,758.15952,617.68205,760.0361,618.14456A132.77706,132.77706,0,0,0,831.278,616.0956A146.7727,146.7727,0,0,0,883.46065,586.40926A162.9081,162.9081,0,0,0,920.88655,538.69699A159.49477,159.49477,0,0,0,938.46177,474.83361C939.77197,452.22198,935.98128,429.20744,926.20262,408.69587Q924.42521,404.9676,922.38825,401.3727A1.50113,1.50113,0,0,0,919.79783,402.88685z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FFFFFFFF">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M760.5882,296.62254A325.34391,325.34391,0,0,1,788.88594,367.60516A342.83439,342.83439,0,0,1,794.71819,519.16525A324.11436,324.11436,0,0,1,771.92957,592.14965C761.51042,615.29678,746.50997,639.68565,720.88741,647.79024A53.43305,53.43305,0,0,1,712.02763,649.77076C710.12346,650.0321 710.93408,652.92314 712.82515,652.6636 739.33001,649.02587 757.74698,627.00616 769.29729,604.56014 781.24844,581.33514 789.75829,556.11444 795.41768,530.65114A345.52584,345.52584,0,0,0,794.23758,376.52971A330.4157,330.4157,0,0,0,767.70815,303.73294Q765.50987,299.38594,763.17861,295.1084C762.25587,293.41184,759.66461,294.9244,760.5882,296.62256z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FFCCCCCC">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M635.13977,292.25924L455.53967,292.25924A13.76779,13.76779,0,0,0,441.78967,306.00924L441.78967,395.99924 469.42981,395.99924A11.87878,11.87878,0,0,1,479.53967,401.58924L489.11975,416.83924 498.27991,431.40918 499.99963,434.14918 510.47963,450.81918 510.59975,451.00918 648.88975,451.00918 648.88975,306.00918A13.76779,13.76779,0,0,0,635.13977,292.25924z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FFFFFFFF">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M563.94983,319.76925L474.95959,319.76925A8.895,8.895,0,1,0,474.95959,337.55925L563.94983,337.55925A8.895,8.895,0,1,0,563.94983,319.76925z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FFFFFFFF">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M613.29944,363.44924L475.76965,363.44924A9.71,9.71,0,0,0,475.76965,382.86924L613.29944,382.86924A9.71,9.71,0,0,0,613.29944,363.44924z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FFFFFFFF">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M622.07971,403.01925A9.70445,9.70445,0,0,0,613.29944,397.42925L475.76965,397.42925C475.55965,397.42925,475.3595,397.43925,475.14954,397.44925A11.91385,11.91385,0,0,1,479.53967,401.58925L489.11975,416.83925 613.29944,416.83925A9.69745,9.69745,0,0,0,622.07971,403.01925z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FFFFFFFF">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M622.90979,439.80923A9.7092,9.7092,0,0,0,613.29944,431.40923L498.27991,431.40923 499.99963,434.14923 510.47963,450.81923 613.29944,450.81923A9.59905,9.59905,0,0,0,618.92981,449.00923A9.69664,9.69664,0,0,0,622.99963,441.10923A9.24451,9.24451,0,0,0,622.90979,439.80923z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FF6C63FF">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M732.68958,369.75924L718.68958,364.28924 648.88977,337.04924 565.37952,304.45924A13.77453,13.77453,0,0,0,547.56946,312.27924L544.64954,319.76924 537.69983,337.55924 527.59973,363.44924 520.01965,382.86924 514.33948,397.42924 506.7594,416.83924 501.06946,431.40918 500.90979,431.82923 499.99963,434.14923 510.47963,450.81923 510.59975,451.00923 704.70959,451.00923A11.91612,11.91612,0,0,1,713.99959,455.44923L714.81942,453.36923 724.83942,427.70923 740.49957,387.57923A13.77715,13.77715,0,0,0,732.68958,369.75924z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FFFFFFFF">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M656.36975,369.49923L648.88975,366.57923 573.46983,337.14923A8.93074,8.93074,0,0,0,561.93956,342.19923A8.924,8.924,0,0,0,566.99961,353.72923L591.90977,363.44923 622.71983,375.46923 648.88975,385.68923 649.89952,386.07923A8.89889,8.89889,0,0,0,656.36973,369.49923z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FFFFFFFF">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M686.44983,428.13924L648.88977,413.47924 622.07971,403.01924 607.7594,397.42924 570.45959,382.86924 558.33948,378.13924A9.70982,9.70982,0,0,0,546.10948,382.86924C545.98985,383.11924,545.86973,383.37924,545.76963,383.64924A9.70379,9.70379,0,0,0,551.27989,396.21924L554.3795,397.42924 604.09971,416.83924 648.88971,434.31924 679.38971,446.22924A9.62861,9.62861,0,0,0,682.90971,446.88924A9.70595,9.70595,0,0,0,686.44971,428.13924z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FFFFFFFF">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M648.88977,449.94924L646.47961,449.00924 622.90979,439.80924 601.37952,431.40924 564.03967,416.8393 545.97961,409.7893A9.70758,9.70758,0,1,0,538.92981,427.8793L547.96981,431.4093 593.06942,449.0093 597.70955,450.8193 598.18955,451.0093 651.5997,451.0093z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FFFFFFFF">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M557.65979,450.81924L553.01965,449.00924 533.62952,441.43924A9.69455,9.69455,0,0,0,520.5094,449.00924A9.2009,9.2009,0,0,0,520.39954,450.81924A1.12063,1.12063,0,0,0,520.40979,451.00924L558.14954,451.00924z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FF3F3D56">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M597.70959,450.81924L593.06946,449.00924 520.5094,449.00924A9.2009,9.2009,0,0,0,520.39954,450.81924L510.47961,450.81924 510.59973,451.00924 598.18958,451.00924z M597.70959,450.81924L510.47959,450.81924 510.59971,451.00924 598.18956,451.00924z M597.70959,450.81924L510.47959,450.81924 510.59971,451.00924 598.18956,451.00924z M598.18959,451.00924L597.70959,450.81924 510.47959,450.81924 510.59971,451.00924z M423.17982,651.25924A11.95822,11.95822,0,0,1,411.23988,639.31924L411.23988,407.94924A11.96034,11.96034,0,0,1,423.17982,395.99924L441.78968,395.99924 441.78968,393.99924 423.17981,393.99924A13.96617,13.96617,0,0,0,409.23987,407.94924L409.23987,639.31924A13.95043,13.95043,0,0,0,417.40979,651.99924L593.58948,651.99924C593.42981,651.75924,593.26965,651.50924,593.10948,651.25924z M714.81947,453.36924A13.87759,13.87759,0,0,0,704.7096,449.00924L511.7096,449.00924 500.9098,431.82924 500.64955,431.40919 491.48988,416.83925 481.22962,400.51925A13.97619,13.97619,0,0,0,469.42982,393.99925L423.17982,393.99925A13.96617,13.96617,0,0,0,409.23988,407.94925L409.23988,639.31925A13.95043,13.95043,0,0,0,417.4098,651.99925A13.74939,13.74939,0,0,0,423.1798,653.25925L704.70959,653.25925A13.79793,13.79793,0,0,0,710.48987,651.99925A13.95124,13.95124,0,0,0,718.65979,639.31925L718.65979,462.95925A13.87,13.87,0,0,0,714.81946,453.36922z M716.6598,639.31924A11.96072,11.96072,0,0,1,704.7096,651.25924L423.17981,651.25924A11.95822,11.95822,0,0,1,411.23987,639.31924L411.23987,407.94924A11.96034,11.96034,0,0,1,423.17981,395.99924L469.42981,395.99924A11.87878,11.87878,0,0,1,479.53967,401.58924L489.11975,416.83924 498.27991,431.40918 499.99963,434.14918 510.47963,450.81918 510.59975,451.00918 704.70959,451.00918A11.96045,11.96045,0,0,1,716.65979,462.95918z M597.7096,450.81924L510.4796,450.81924 510.59972,451.00924 598.18957,451.00924z M597.7096,450.81924L510.4796,450.81924 510.59972,451.00924 598.18957,451.00924z M597.7096,450.81924L510.4796,450.81924 510.59972,451.00924 598.18957,451.00924z M597.7096,450.81924L593.06947,449.00924 511.70959,449.00924 500.90979,431.82924 499.99963,434.14924 510.47963,450.81924 510.59975,451.00924 598.1896,451.00924z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FFFFB8B8">
+            <GeometryDrawing.Geometry>
+                <PathGeometry Figures="M156.928,287.77L156.928,287.77 151.2,299.746 102.283,283.352 110.736,265.677 156.928,287.77z" FillRule="Nonzero" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Transform="0.4315,-0.9021,0.9021,0.4315,-502.1221,396.571">
+            <GeometryDrawing Brush="#FF2F2E41">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M358.52955,543.80507L385.36374,543.80507A0,0,0,0,1,385.36374,543.80507L385.36374,559.92457A0,0,0,0,1,385.36374,559.92457L343.64274,559.92457A0,0,0,0,1,343.64274,559.92457L343.64274,558.69193A14.88686,14.88686,0,0,1,358.52955,543.80507z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FFFFB8B8">
+            <GeometryDrawing.Geometry>
+                <PathGeometry Figures="M168.459,394.715L168.459,394.715 155.192,394.267 154.633,342.623 170.186,343.541 168.459,394.715z" FillRule="Nonzero" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Transform="0.9994,0.0337,-0.0337,0.9994,-189.5575,-257.8387">
+            <GeometryDrawing Brush="#FF2F2E41">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M355.83539,636.31276L382.66958,636.31276A0,0,0,0,1,382.66958,636.31276L382.66958,652.43226A0,0,0,0,1,382.66958,652.43226L340.94858,652.43226A0,0,0,0,1,340.94858,652.43226L340.94858,651.19962A14.88686,14.88686,0,0,1,355.83539,636.31276z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FF2F2E41">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M401.32408,424.5795C401.32408,424.5795,360.71908,414.29291,342.31151,429.4521L332.02492,459.2291 290.87854,517.70027 350.43254,553.43265 361.26054,526.36265 335.27336,513.36905 366.67454,486.29905 361.26054,629.22857 381.83373,632.47697C381.83373,632.47697,427.31127,455.98068,401.32408,424.5795z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FF6C63FF">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M339.72057,433.85626L340.21544,432.97648C345.43244,423.70184 344.58708,408.59869 342.95944,397.56239 341.59616,388.31839 341.63713,372.02778 341.91153,359.98903A17.89121,17.89121,0,0,1,356.173,342.76787C368.52554,340.19728,383.69028,339.65271,391.63046,339.55648L391.63707,340.09788 391.63046,339.55648A8.24494,8.24494,0,0,1,399.90584,347.59923C400.14746,360.56323 400.07238,384.20398 396.85518,396.88775 392.08039,415.71302 399.54684,428.50575 399.62298,428.6326L400.07344,429.38548z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FFFFB8B8">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M318.8336,485.774A10.02479,10.02479,0,0,0,322.64413,470.882L345.55991,372.06379 328.23512,372.06379 308.01074,468.93431A10.07912,10.07912,0,0,0,318.8336,485.774z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FFFFB8B8">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M458.17105,388.50259L419.92855,352.32725 409.59273,366.79738 435.43226,389.53617 401.54513,416.44651C401.30036,416.42998,401.0566,416.40929,400.80729,416.40929A10.85261,10.85261,0,1,0,411.5529,428.70529L411.6599,428.81229z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FF6C63FF">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M353.74046,344.03808C353.74046,344.03808 329.85932,340.12114 327.69372,358.52873 325.52812,376.93632 324.44532,376.93632 324.44532,376.93632 324.44532,376.93632 341.77011,373.68793 346.10132,378.01912 350.43253,382.35031 353.74046,344.03808 353.74046,344.03808z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FF6C63FF">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M389.41329,341.20394C389.41329,341.20394 408.90368,337.95555 417.56607,346.61794 426.22846,355.28033 430.55967,357.44594 430.55967,357.44594 430.55967,357.44594 411.06928,368.27394 418.64887,378.01913 418.64887,378.01913 398.07568,368.27394 394.82729,371.52234 391.5789,374.77074 389.41329,341.20394 389.41329,341.20394z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FF2F2E41">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M372.31839,278.33911C366.17039,273.42911 364.55497,263.95283 368.12201,256.93985 371.68905,249.92687 379.75372,245.70176 387.61541,246.01729 395.4771,246.33282 402.88507,250.84637 407.43963,257.26211 413.83756,266.27449 415.18015,278.80046 423.68749,285.85611 431.37144,292.22884 442.37904,292.04633 452.34888,291.53935 455.70959,291.36845 459.17901,291.17035 462.19465,289.67716 465.21029,288.18397 467.67411,285.03479 467.2854,281.69227 469.79002,285.65716 468.33694,291.21627 464.97664,294.4877 461.61634,297.75913 456.83164,299.1297 452.17375,299.67543A47.56885,47.56885,0,0,1,409.02235,280.7425C405.55348,275.95708 402.87635,270.3846 398.11635,266.88094 393.35635,263.37728 385.41968,263.1334 382.4975,268.27094 381.05223,270.81194 381.19408,273.9992 379.86502,276.60284 378.53596,279.20648 374.22002,280.61038 372.94024,277.98216" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FF2F2E41">
+            <GeometryDrawing.Geometry>
+                <EllipseGeometry
+                    Center="159.8789,54.5556"
+                    RadiusX="30"
+                    RadiusY="30" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFFFB8B8">
+            <GeometryDrawing.Geometry>
+                <EllipseGeometry
+                    Center="159.6978,62.343"
+                    RadiusX="24.561"
+                    RadiusY="24.561" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FF2F2E41">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M348.80242,290.30517C352.14042,291.03529 351.04813,296.63483 353.68583,298.80682 356.0652,300.76609 359.49173,298.75118 362.48641,298.02175 366.26722,297.10084 370.22447,298.4499 373.71512,300.16975 377.20577,301.8896 380.57162,304.02396 384.37959,304.8252 388.18756,305.62644 392.70206,304.72337 394.83674,301.4698 396.87783,298.35887 396.12647,294.16369 394.52962,290.80303A24.76974,24.76974,0,0,0,350.08762,290.18715" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="1,0,0,1,-211.4996,-246.0008">
+            <GeometryDrawing Brush="#FF3F3D56">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M927.49963,652.99923A1.00307,1.00307,0,0,1,926.49963,653.99923L212.49963,653.99923A1,1,0,0,1,212.49963,651.99923L926.49963,651.99923A1.00307,1.00307,0,0,1,927.49963,652.99923z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+    </DrawingGroup>
+    <DrawingBrush x:Key="OpenFileDialogIcon" Drawing="{StaticResource undrawmyfilesswob9d9a35539b134db19508e040ae75406b_0}" />
+
+    <!--  SaveFileDialog Icon  -->
+    <DrawingGroup x:Key="undrawcollectingfjjl6b5b97837e414c10b2429393f26dd77c_0">
+        <DrawingGroup.ClipGeometry>
+            <RectangleGeometry Rect="0,0,734,764.5" />
+        </DrawingGroup.ClipGeometry>
+        <DrawingGroup Opacity="0.699999988079071">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="366.37,536.32" EndPoint="608.5,536.32">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M608.5,366.44L608.5,366.44 366.37,308.13 366.37,764.5 608.5,701.12 608.5,366.44z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <DrawingGroup Opacity="0.10000000149011612">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="366.37,536.32" EndPoint="608.5,536.32">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <PathGeometry Figures="M608.5,366.44L608.5,366.44 366.37,308.13 366.37,764.5 608.5,701.12 608.5,366.44z" FillRule="Nonzero" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="124.23,536.32" EndPoint="366.37,536.32">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M124.23,366.44L124.23,366.44 366.37,308.13 366.37,764.5 124.23,702.38 124.23,366.44z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <DrawingGroup Opacity="0.17000000178813934">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="124.23,536.32" EndPoint="366.37,536.32">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <PathGeometry Figures="M124.23,366.44L124.23,366.44 366.37,308.13 366.37,764.5 124.23,702.38 124.23,366.44z" FillRule="Nonzero" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="366.37,285.31" EndPoint="734,285.31">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M366.37,308.13L366.37,308.13 491.87,204.18 734,266.3 608.5,366.44 366.37,308.13z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="0,285.31" EndPoint="366.37,285.31">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M0,267.56L0,267.56 124.23,366.44 366.37,308.13 243.4,204.18 0,267.56z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <DrawingGroup Opacity="0.05000000074505806">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="0,285.31" EndPoint="366.37,285.31">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <PathGeometry Figures="M0,267.56L0,267.56 124.23,366.44 366.37,308.13 243.4,204.18 0,267.56z" FillRule="Nonzero" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+            <DrawingGroup Opacity="0.5">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="276.64,421.19" EndPoint="276.64,255.38">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <RectangleGeometry
+                            RadiusX="4.5"
+                            RadiusY="4.5"
+                            Rect="186.78,255.38,179.72,165.82" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="188.97,337.56" EndPoint="364.55,337.56">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="4.5"
+                        RadiusY="4.5"
+                        Rect="188.97,256.66,175.58,161.8" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="202.5,296.63" EndPoint="232.11,296.63">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="4.5"
+                        RadiusY="4.5"
+                        Rect="202.5,283.31,29.61,26.65" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="240.99,284.79" EndPoint="358.7,284.79">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="240.99,283.31,117.71,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="240.99,293.67" EndPoint="358.7,293.67">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="240.99,292.19,117.71,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="199.54,325.92" EndPoint="358.7,325.92">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="199.54,324.44,159.16,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="199.54,334.8" EndPoint="358.7,334.8">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="199.54,333.32,159.16,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="199.54,346.64" EndPoint="358.7,346.64">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="199.54,345.16,159.16,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="199.54,355.53" EndPoint="291.33,355.53">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="199.54,354.05,91.79,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="199.54,367.34" EndPoint="358.7,367.34">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="199.54,365.86,159.16,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="199.54,376.22" EndPoint="358.7,376.22">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="199.54,374.74,159.16,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="199.54,388.07" EndPoint="358.7,388.07">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="199.54,386.59,159.16,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="199.54,396.95" EndPoint="291.33,396.95">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="199.54,395.47,91.79,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <DrawingGroup Opacity="0.5">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="303.76,459.51" EndPoint="303.76,293.69">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <RectangleGeometry
+                            RadiusX="4.5"
+                            RadiusY="4.5"
+                            Rect="213.9,293.69,179.72,165.82" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="216.09,375.88" EndPoint="391.67,375.88">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="4.5"
+                        RadiusY="4.5"
+                        Rect="216.09,294.98,175.58,161.8" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="229.62,334.95" EndPoint="259.23,334.95">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="4.5"
+                        RadiusY="4.5"
+                        Rect="229.62,321.63,29.61,26.65" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="268.12,323.11" EndPoint="385.83,323.11">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="268.12,321.63,117.71,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="268.12,331.99" EndPoint="385.83,331.99">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="268.12,330.51,117.71,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="226.66,364.23" EndPoint="385.83,364.23">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="226.66,362.75,159.16,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="226.66,373.12" EndPoint="385.83,373.12">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="226.66,371.64,159.16,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="226.66,384.96" EndPoint="385.83,384.96">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="226.66,383.48,159.16,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="226.66,393.84" EndPoint="318.45,393.84">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="226.66,392.36,91.79,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="226.66,405.66" EndPoint="385.83,405.66">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="226.66,404.18,159.16,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="226.66,414.54" EndPoint="385.83,414.54">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="226.66,413.06,159.16,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="226.66,426.39" EndPoint="385.83,426.39">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="226.66,424.91,159.16,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="226.66,435.27" EndPoint="318.45,435.27">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0.8"
+                        RadiusY="0.8"
+                        Rect="226.66,433.79,91.79,2.96" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <DrawingGroup Opacity="0.5">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="396.27,498.11" EndPoint="396.27,315.15">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <RectangleGeometry
+                            RadiusX="0"
+                            RadiusY="0"
+                            Rect="318.41,315.15,155.72,182.96" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="323.2,406.08" EndPoint="470.82,406.08">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="323.2,318.1,147.62,175.97" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <DrawingGroup Opacity="0.5">
+                <DrawingGroup Transform="1,0,0,1,-233,-67.75">
+                    <GeometryDrawing>
+                        <GeometryDrawing.Brush>
+                            <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="630.01,435.54" EndPoint="630.01,409.41">
+                                <GradientStop Offset="0" Color="#40808080" />
+                                <GradientStop Offset="0.54" Color="#1F808080" />
+                                <GradientStop Offset="1" Color="#1A808080" />
+                            </LinearGradientBrush>
+                        </GeometryDrawing.Brush>
+                        <GeometryDrawing.Geometry>
+                            <PathGeometry Figures="M638.05,413.83L638.05,409.41 622,409.41 622,413.83 610.71,413.83 610.71,435.54 649.31,435.54 649.31,413.83z M624,411L636,411 636,413.81 624,413.81z" FillRule="Nonzero" />
+                        </GeometryDrawing.Geometry>
+                    </GeometryDrawing>
+                </DrawingGroup>
+            </DrawingGroup>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="379.34,356.75" EndPoint="414.68,356.75">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="379.34,346.81,35.34,19.88" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="389.65,345.34" EndPoint="404.37,345.34">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M389.65,342.76L389.65,342.76 389.65,347.92 391.49,347.92 391.49,344.24 402.53,344.24 402.53,347.92 404.37,347.92 404.37,342.76 389.65,342.76z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="345.29,397.51" EndPoint="449.1,397.51">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="345.29,395.3,103.81,4.42" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="345.29,426.59" EndPoint="449.1,426.59">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="345.29,424.38,103.81,4.42" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="345.29,434.32" EndPoint="449.1,434.32">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="345.29,432.11,103.81,4.42" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="345.29,418.86" EndPoint="389.1,418.86">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="345.29,416.65,43.81,4.42" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <DrawingGroup Opacity="0.60000002384185791">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="416.34,418.86" EndPoint="449.1,418.86">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <RectangleGeometry
+                            RadiusX="0"
+                            RadiusY="0"
+                            Rect="416.34,416.65,32.76,4.42" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="381.73,452.36" EndPoint="414.5,452.36">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="381.73,450.15,32.76,4.42" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="124.23,565.47" EndPoint="366.37,565.47">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M124.23,366.44L124.23,366.44 124.23,702.38 366.37,764.5 366.37,431.1 124.23,366.44z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="366.37,565.47" EndPoint="608.5,565.47">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M608.5,701.12L608.5,701.12 366.37,764.5 366.37,431.1 608.5,366.44 608.5,701.12z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <DrawingGroup Opacity="0.070000000298023224">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="366.37,565.47" EndPoint="608.5,565.47">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <PathGeometry Figures="M608.5,701.12L608.5,701.12 366.37,764.5 366.37,431.1 608.5,366.44 608.5,701.12z" FillRule="Nonzero" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+            <DrawingGroup Opacity="0.070000000298023224">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="512.15,631.39" EndPoint="608.5,631.39">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <PathGeometry Figures="M512.15,589.56L512.15,589.56 512.15,699.85 608.5,673.23 608.5,562.94 512.15,589.56z" FillRule="Nonzero" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="517.49,407.03" EndPoint="517.49,338.42">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="481.78,338.42,71.41,68.61" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="482.9,372.87" EndPoint="552.07,372.87">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="482.9,340.1,69.17,65.53" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <DrawingGroup Opacity="0.5">
+                <DrawingGroup Transform="1,0,0,1,-233,-67.75">
+                    <GeometryDrawing>
+                        <GeometryDrawing.Brush>
+                            <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="750.49,435.86" EndPoint="750.49,415.97">
+                                <GradientStop Offset="0" Color="#40808080" />
+                                <GradientStop Offset="0.54" Color="#1F808080" />
+                                <GradientStop Offset="1" Color="#1A808080" />
+                            </LinearGradientBrush>
+                        </GeometryDrawing.Brush>
+                        <GeometryDrawing.Geometry>
+                            <PathGeometry Figures="M756.6,419.34L756.6,416 744.37,416 744.37,419.36 735.8,419.36 735.8,435.88 765.17,435.88 765.17,419.34z M745.9,417.2L755.08,417.2 755.08,419.34 745.9,419.34z" FillRule="Nonzero" />
+                        </GeometryDrawing.Geometry>
+                    </GeometryDrawing>
+                </DrawingGroup>
+            </DrawingGroup>
+            <DrawingGroup Opacity="0.60000002384185791">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="504.04,359.71" EndPoint="530.93,359.71">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <RectangleGeometry
+                            RadiusX="0"
+                            RadiusY="0"
+                            Rect="504.04,352.15,26.88,15.12" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+            <DrawingGroup Opacity="0.60000002384185791">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="511.89,351.03" EndPoint="523.09,351.03">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <PathGeometry Figures="M511.88,349.06L511.88,349.06 511.88,352.99 513.29,352.99 513.29,350.19 521.69,350.19 521.69,352.99 523.09,352.99 523.09,349.06 511.88,349.06z" FillRule="Nonzero" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+            <DrawingGroup Opacity="0.60000002384185791">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="505.58,380.71" EndPoint="530.51,380.71">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <RectangleGeometry
+                            RadiusX="0"
+                            RadiusY="0"
+                            Rect="505.58,379.03,24.92,3.36" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="496.2,386.87" EndPoint="538.77,386.87">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="496.2,385.19,42.57,3.36" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <DrawingGroup Opacity="0.5">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="358.76,204.69" EndPoint="358.76,128.69">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <RectangleGeometry
+                            RadiusX="0"
+                            RadiusY="0"
+                            Rect="312.49,128.69,92.52,76" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="313.57,166.78" EndPoint="403.76,166.78">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="313.57,130.13,90.19,73.3" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="313.57,138.3" EndPoint="403.76,138.3">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="313.57,130.13,90.19,16.35" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <DrawingGroup Opacity="0.10000000149011612">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="313.57,138.3" EndPoint="403.76,138.3">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <RectangleGeometry
+                            RadiusX="0"
+                            RadiusY="0"
+                            Rect="313.57,130.13,90.19,16.35" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="320.76,157.17" EndPoint="396.57,157.17">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="320.76,152.41,75.82,9.52" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="320.76,170.73" EndPoint="376.09,170.73">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="320.76,169.12,55.34,3.23" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="320.76,176.3" EndPoint="356.69,176.3">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="320.76,174.69,35.93,3.23" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="320.76,181.87" EndPoint="368.19,181.87">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="320.76,180.26,47.43,3.23" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="320.76,187.44" EndPoint="376.09,187.44">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="320.76,185.82,55.34,3.23" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="320.76,193.01" EndPoint="339.26,193.01">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="320.76,191.39,18.5,3.23" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <DrawingGroup Opacity="0.5">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="505.86,279.95" EndPoint="505.86,185.76">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <RectangleGeometry
+                            RadiusX="0"
+                            RadiusY="0"
+                            Rect="448.52,185.76,114.68,94.19" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="449.86,232.96" EndPoint="561.64,232.96">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="449.86,187.54,111.79,90.85" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="449.86,197.67" EndPoint="561.64,197.67">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="449.86,187.54,111.79,20.26" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="458.76,221.05" EndPoint="552.73,221.05">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="458.76,215.15,93.97,11.8" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="458.76,237.86" EndPoint="527.35,237.86">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="458.76,235.86,68.59,4.01" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="458.76,244.77" EndPoint="503.3,244.77">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="458.76,242.76,44.54,4.01" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="458.76,251.67" EndPoint="517.55,251.67">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="458.76,249.67,58.79,4.01" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="458.76,258.57" EndPoint="527.35,258.57">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="458.76,256.57,68.59,4.01" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="458.76,265.48" EndPoint="481.7,265.48">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="458.76,263.47,22.94,4.01" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="463.66,220.94" EndPoint="490.38,220.94">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="463.66,219.16,26.72,3.56" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <DrawingGroup Opacity="0.10000000149011612">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="121.07,472.93" EndPoint="365.73,472.93">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <PathGeometry Figures="M121.07,540.75L121.07,540.75 256.71,574.98 365.73,486.24 365.73,431.73 123.6,370.88 121.07,540.75z" FillRule="Nonzero" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+            <DrawingGroup Opacity="0.10000000149011612">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="365.73,472.93" EndPoint="610.4,472.93">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <PathGeometry Figures="M610.4,540.75L610.4,540.75 474.75,574.98 365.73,486.24 365.73,431.73 607.86,370.88 610.4,540.75z" FillRule="Nonzero" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="0,448.21" EndPoint="366.37,448.21">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M124.23,366.44L124.23,366.44 0,469.13 242.13,529.98 366.37,431.1 124.23,366.44z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="366.37,448.21" EndPoint="734,448.21">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M608.5,366.44L608.5,366.44 734,469.13 493.14,529.98 366.37,431.1 608.5,366.44z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <DrawingGroup Opacity="0.070000000298023224">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="366.37,448.21" EndPoint="734,448.21">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <PathGeometry Figures="M608.5,366.44L608.5,366.44 734,469.13 493.14,529.98 366.37,431.1 608.5,366.44z" FillRule="Nonzero" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FF535461">
+            <GeometryDrawing.Geometry>
+                <PathGeometry Figures="M608.94,363.36L608.94,363.36 368.88,305.54 368.88,758.01 608.94,695.17 608.94,363.36z" FillRule="Nonzero" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Opacity="0.10000000149011612">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.1" Color="#FF000000" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M608.94,363.36L608.94,363.36 368.88,305.54 368.88,758.01 608.94,695.17 608.94,363.36z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FF535461">
+            <GeometryDrawing.Geometry>
+                <PathGeometry Figures="M128.83,363.36L128.83,363.36 368.88,305.54 368.88,758.01 128.83,696.42 128.83,363.36z" FillRule="Nonzero" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Opacity="0.17000000178813934">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.17" Color="#FF000000" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M128.83,361.36L128.83,361.36 368.88,303.54 368.88,758.01 128.83,696.42 128.83,361.36z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FF535461">
+            <GeometryDrawing.Geometry>
+                <PathGeometry Figures="M366.88,307.54L366.88,307.54 493.31,202.48 733.37,264.07 606.94,365.36 366.88,307.54z" FillRule="Nonzero" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FF535461">
+            <GeometryDrawing.Geometry>
+                <PathGeometry Figures="M7.66,267.32L7.66,267.32 130.83,365.36 370.88,307.54 248.97,204.48 7.66,267.32z" FillRule="Nonzero" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Opacity="0.05000000074505806">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.05" Color="#FF000000" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M5.66,265.32L5.66,265.32 131.83,365.36 371.88,307.54 246.97,202.48 5.66,265.32z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.5">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="279.92,417.64" EndPoint="279.92,253.24">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="4.5"
+                        RadiusY="4.5"
+                        Rect="190.83,253.24,178.18,164.4" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FFF5F5F5">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="4.5"
+                    RadiusY="4.5"
+                    Rect="193.01,254.52,174.07,160.41" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FF6C63FF">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="4.5"
+                    RadiusY="4.5"
+                    Rect="206.42,280.94,29.36,26.42" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="244.59,280.94,116.7,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="244.59,289.74,116.7,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="203.49,321.71,157.8,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="203.49,330.52,157.8,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="203.49,342.26,157.8,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="203.49,351.07,91.01,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="203.49,362.78,157.8,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="203.49,371.59,157.8,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="203.49,383.33,157.8,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="203.49,392.14,91.01,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Opacity="0.5">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="306.82,455.63" EndPoint="306.82,291.23">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="4.5"
+                        RadiusY="4.5"
+                        Rect="217.72,291.23,178.18,164.4" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FFFFFFFF">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="4.5"
+                    RadiusY="4.5"
+                    Rect="219.9,292.51,174.07,160.41" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FF6C63FF">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="4.5"
+                    RadiusY="4.5"
+                    Rect="233.31,318.93,29.36,26.42" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="271.48,318.93,116.7,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="271.48,327.73,116.7,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="230.38,359.7,157.8,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="230.38,368.51,157.8,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="230.38,380.25,157.8,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="230.38,389.06,91.01,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="230.38,400.77,157.8,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="230.38,409.58,157.8,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="230.38,421.32,157.8,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0.8"
+                    RadiusY="0.8"
+                    Rect="230.38,430.13,91.01,2.94" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Opacity="0.5">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="398.54,493.9" EndPoint="398.54,312.51">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="321.34,312.51,154.39,181.39" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FFFFFFFF">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="326.09,315.43,146.36,174.46" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Opacity="0.5">
+            <DrawingGroup Transform="1,0,0,1,-233,-67.75">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="632.27,432.45" EndPoint="632.27,406.53">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <PathGeometry Figures="M640.24,410.92L640.24,406.53 624.29,406.53 624.29,410.92 613.13,410.92 613.13,432.45 651.4,432.45 651.4,410.92z M626.24,408.13L638.24,408.13 638.24,410.92 626.24,410.92z" FillRule="Nonzero" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FF6C63FF">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="381.75,343.9,35.04,19.71" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FF6C63FF">
+            <GeometryDrawing.Geometry>
+                <PathGeometry Figures="M391.97,339.88L391.97,339.88 391.97,344.99 393.79,344.99 393.79,341.34 404.74,341.34 404.74,344.99 406.57,344.99 406.57,339.88 391.97,339.88z" FillRule="Nonzero" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="347.99,391.97,102.92,4.38" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="347.99,420.8,102.92,4.38" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="347.99,428.47,102.92,4.38" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="347.99,413.14,43.43,4.38" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Opacity="0.60000002384185791">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.6" Color="#FF3AD29F" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="418.43,413.14,32.48,4.38" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FF6C63FF">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="384.12,446.35,32.48,4.38" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FF535461">
+            <GeometryDrawing.Geometry>
+                <PathGeometry Figures="M128.83,363.36L128.83,363.36 128.83,696.42 368.88,758.01 372.12,427.46 128.83,363.36z" FillRule="Nonzero" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FF535461">
+            <GeometryDrawing.Geometry>
+                <PathGeometry Figures="M608.94,695.17L608.94,695.17 368.88,758.01 368.88,427.46 608.94,363.36 608.94,695.17z" FillRule="Nonzero" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Opacity="0.070000000298023224">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.07" Color="#FF000000" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M608.94,695.17L608.94,695.17 368.88,758.01 368.88,427.46 608.94,363.36 608.94,695.17z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.070000000298023224">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.07" Color="#FF000000" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M513.42,584.57L513.42,584.57 513.42,693.91 608.94,667.52 608.94,558.17 513.42,584.57z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing>
+            <GeometryDrawing.Brush>
+                <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="518.71,403.6" EndPoint="518.71,335.58">
+                    <GradientStop Offset="0" Color="#40808080" />
+                    <GradientStop Offset="0.54" Color="#1F808080" />
+                    <GradientStop Offset="1" Color="#1A808080" />
+                </LinearGradientBrush>
+            </GeometryDrawing.Brush>
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="483.31,335.58,70.8,68.02" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFF5F5F5">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="484.42,337.24,68.58,64.97" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Opacity="0.5">
+            <DrawingGroup Transform="1,0,0,1,-233,-67.75">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="751.71,432.76" EndPoint="751.71,413.05">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <PathGeometry Figures="M757.78,416.38L757.78,413 745.65,413 745.65,416.34 737.16,416.34 737.16,432.72 766.27,432.72 766.27,416.38z M747.17,414.26L756.27,414.26 756.27,416.38 747.17,416.38z" FillRule="Nonzero" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.60000002384185791">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.6" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="505.38,349.18,26.65,14.99" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.60000002384185791">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.6" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M513.16,346.13L513.16,346.13 513.16,350.02 514.55,350.02 514.55,347.24 522.88,347.24 522.88,350.02 524.26,350.02 524.26,346.13 513.16,346.13z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.60000002384185791">
+            <GeometryDrawing Brush="#FF6C63FF">
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="506.91,375.84,24.71,3.33" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FFBDBDBD">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="497.61,381.95,42.2,3.33" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing>
+            <GeometryDrawing.Brush>
+                <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="450.84,68.02" EndPoint="450.84,0">
+                    <GradientStop Offset="0" Color="#40808080" />
+                    <GradientStop Offset="0.54" Color="#1F808080" />
+                    <GradientStop Offset="1" Color="#1A808080" />
+                </LinearGradientBrush>
+            </GeometryDrawing.Brush>
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="415.44,0,70.8,68.02" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFF5F5F5">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="416.55,1.67,68.58,64.97" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Opacity="0.5">
+            <DrawingGroup Transform="1,0,0,1,-233,-67.75">
+                <GeometryDrawing>
+                    <GeometryDrawing.Brush>
+                        <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="683.84,97.18" EndPoint="683.84,77.47">
+                            <GradientStop Offset="0" Color="#40808080" />
+                            <GradientStop Offset="0.54" Color="#1F808080" />
+                            <GradientStop Offset="1" Color="#1A808080" />
+                        </LinearGradientBrush>
+                    </GeometryDrawing.Brush>
+                    <GeometryDrawing.Geometry>
+                        <PathGeometry Figures="M689.91,80.8L689.91,77.47 677.78,77.47 677.78,80.8 669.29,80.8 669.29,97.18 698.4,97.18 698.4,80.8z M679.3,78.68L688.4,78.68 688.4,80.8 679.3,80.8z" FillRule="Nonzero" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.60000002384185791">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.6" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="437.51,13.6,26.65,14.99" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.60000002384185791">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.6" Color="#FF6C63FF" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M445.29,10.55L445.29,10.55 445.29,14.44 446.68,14.44 446.68,11.66 455.01,11.66 455.01,14.44 456.39,14.44 456.39,10.55 445.29,10.55z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.60000002384185791">
+            <GeometryDrawing Brush="#FF6C63FF">
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="439.04,40.26,24.71,3.33" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FFBDBDBD">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="429.74,46.37,42.2,3.33" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Opacity="0.5">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="361.34,202.99" EndPoint="361.34,127.64">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="315.47,127.64,91.73,75.35" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FFF2F2F2">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="316.54,129.07,89.42,72.67" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FF6C63FF">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="316.54,129.07,89.42,16.21" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Opacity="0.10000000149011612">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.1" Color="#FF000000" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="316.54,129.07,89.42,16.21" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="323.67,151.16,75.17,9.44" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="323.67,167.72,54.86,3.21" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="323.67,173.24,35.62,3.21" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="323.67,178.76,47.02,3.21" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="323.67,184.29,54.86,3.21" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="323.67,189.81,18.35,3.21" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Opacity="0.5">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush MappingMode="Absolute" Opacity="1" SpreadMethod="Pad" StartPoint="507.18,277.61" EndPoint="507.18,184.22">
+                        <GradientStop Offset="0" Color="#40808080" />
+                        <GradientStop Offset="0.54" Color="#1F808080" />
+                        <GradientStop Offset="1" Color="#1A808080" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <RectangleGeometry
+                        RadiusX="0"
+                        RadiusY="0"
+                        Rect="450.33,184.22,113.7,93.39" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FFFFFFFF">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="451.66,185.98,110.83,90.08" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FF6C63FF">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="451.66,185.98,110.83,20.09" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFF5F5F5">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="460.49,213.36,93.17,11.7" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="460.49,233.89,68,3.97" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="460.49,240.74,44.16,3.97" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="460.49,247.58,58.28,3.97" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="460.49,254.43,68,3.97" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FFE0E0E0">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="460.49,261.27,22.74,3.97" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FF69F0AE">
+            <GeometryDrawing.Geometry>
+                <RectangleGeometry
+                    RadiusX="0"
+                    RadiusY="0"
+                    Rect="465.35,217.33,26.49,3.53" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Opacity="0.10000000149011612">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.1" Color="#FF000000" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M125.69,536.18L125.69,536.18 260.17,570.11 368.26,482.13 368.26,428.09 128.2,367.76 125.69,536.18z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Opacity="0.10000000149011612">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.1" Color="#FF000000" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M610.83,536.18L610.83,536.18 476.35,570.11 368.26,482.13 368.26,428.09 608.32,367.76 610.83,536.18z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <GeometryDrawing Brush="#FF535461">
+            <GeometryDrawing.Geometry>
+                <PathGeometry Figures="M128.83,363.36L128.83,363.36 5.66,465.16 245.71,525.49 368.88,427.46 128.83,363.36z" FillRule="Nonzero" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <GeometryDrawing Brush="#FF535461">
+            <GeometryDrawing.Geometry>
+                <PathGeometry Figures="M608.94,363.36L608.94,363.36 733.37,465.16 494.57,525.49 368.88,427.46 608.94,363.36z" FillRule="Nonzero" />
+            </GeometryDrawing.Geometry>
+        </GeometryDrawing>
+        <DrawingGroup Opacity="0.070000000298023224">
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <SolidColorBrush Opacity="0.07" Color="#FF000000" />
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M608.94,363.36L608.94,363.36 733.37,465.16 494.57,525.49 368.88,427.46 608.94,363.36z" FillRule="Nonzero" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+    </DrawingGroup>
+    <DrawingBrush x:Key="SaveFileDialogIcon" Drawing="{StaticResource undrawcollectingfjjl6b5b97837e414c10b2429393f26dd77c_0}" />
+
+
+</ResourceDictionary>

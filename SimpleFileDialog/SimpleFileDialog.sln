@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SimpleFileDialog", "SimpleFileDialog", "{006BAAE3-4E5C-490B-AC7B-C53988608EAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFileDialog", "SimpleFileDialog\SimpleFileDialog\SimpleFileDialog.csproj", "{F7D4D971-5B92-4D1E-98B2-CA7F8CBC6FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFileDialog.Activities", "SimpleFileDialog\SimpleFileDialog.Activities\SimpleFileDialog.Activities.csproj", "{A5C8624B-64D8-45FB-AAF0-53AFF08DC9C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFileDialog.Activities.Design", "SimpleFileDialog\SimpleFileDialog.Activities.Design\SimpleFileDialog.Activities.Design.csproj", "{F35394AC-88EA-4D1E-9B99-6515E669DDB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{05448ED9-A3AC-4A47-B3DC-4044E238F023}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "UiPath.Shared.Activities", "Shared\UiPath.Shared.Activities\UiPath.Shared.Activities.shproj", "{4546856D-EA50-45C6-9419-EEEACB5A80AA}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "UiPath.Shared.Activities.Design", "Shared\UiPath.Shared.Activities.Design\UiPath.Shared.Activities.Design.shproj", "{DF9C43F0-ADD3-4FBF-995E-84B92F9CBF25}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Shared\UiPath.Shared.Activities\UiPath.Shared.Activities.projitems*{4546856d-ea50-45c6-9419-eeeacb5a80aa}*SharedItemsImports = 13
+		Shared\UiPath.Shared.Activities.Design\UiPath.Shared.Activities.Design.projitems*{df9c43f0-add3-4fbf-995e-84b92f9cbf25}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7D4D971-5B92-4D1E-98B2-CA7F8CBC6FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D4D971-5B92-4D1E-98B2-CA7F8CBC6FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D4D971-5B92-4D1E-98B2-CA7F8CBC6FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D4D971-5B92-4D1E-98B2-CA7F8CBC6FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C8624B-64D8-45FB-AAF0-53AFF08DC9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C8624B-64D8-45FB-AAF0-53AFF08DC9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C8624B-64D8-45FB-AAF0-53AFF08DC9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C8624B-64D8-45FB-AAF0-53AFF08DC9C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F35394AC-88EA-4D1E-9B99-6515E669DDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35394AC-88EA-4D1E-9B99-6515E669DDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35394AC-88EA-4D1E-9B99-6515E669DDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35394AC-88EA-4D1E-9B99-6515E669DDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F7D4D971-5B92-4D1E-98B2-CA7F8CBC6FAB} = {006BAAE3-4E5C-490B-AC7B-C53988608EAD}
+		{A5C8624B-64D8-45FB-AAF0-53AFF08DC9C0} = {006BAAE3-4E5C-490B-AC7B-C53988608EAD}
+		{F35394AC-88EA-4D1E-9B99-6515E669DDB4} = {006BAAE3-4E5C-490B-AC7B-C53988608EAD}
+		{4546856D-EA50-45C6-9419-EEEACB5A80AA} = {05448ED9-A3AC-4A47-B3DC-4044E238F023}
+		{DF9C43F0-ADD3-4FBF-995E-84B92F9CBF25} = {05448ED9-A3AC-4A47-B3DC-4044E238F023}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30CB0D63-DE0D-44E2-A10E-00B2790A2476}
+	EndGlobalSection
+EndGlobal
