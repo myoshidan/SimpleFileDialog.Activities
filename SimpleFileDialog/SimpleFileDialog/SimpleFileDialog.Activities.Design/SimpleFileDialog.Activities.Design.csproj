@@ -9,15 +9,15 @@
   <PropertyGroup>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
-    <Description>シンプルなファイル選択、フォルダ選択ダイアログを表示するライブラリーです。
+    <Description>ファイル選択ダイアログ、ファイル保存ダイアログ、フォルダ選択ダイアログ表示アクティビティが含まれるパッケージです。
 ----------
-This library provides the ability to simply display a file and folder selection dialog.</Description>
+This package provides the ability to display a file and folder selection dialog.</Description>
     <Authors>Masaaki Yoshida</Authors>
     <Company>Masaaki Yoshida</Company>
     <Copyright>© 2020 Masaaki Yoshida</Copyright>
     <PackageTags>UiPath Activit𝗒 File Folder</PackageTags>
-    <PackageProjectUrl>https://docs.uipath.com/integrations/docs/how-to-create-activities</PackageProjectUrl>
-    <PackageIconUrl>https://raw.githubusercontent.com/NuGet/Samples/master/PackageIconNuspecExample/icon.png</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/myoshidan/SimpleFileDialog.Activities</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/myoshidan/SimpleFileDialog.Activities/main/SimpleFileDialog/SimpleFileDialog/SimpleFileDialog.Activities.Design/packageIcon.png</PackageIconUrl>
     <!--<PackageIcon>packageIcon.png</PackageIcon>--> <!--PackageIcon not yet supported in UiPath Studio-->
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <FileVersion>1.0.0.0</FileVersion>
@@ -26,10 +26,10 @@ This library provides the ability to simply display a file and folder selection 
   </PropertyGroup>
   <!-- Package Versions -->
   <PropertyGroup Condition="'$(Configuration)' == 'Debug' AND '$(DesignTimeBuild)' != 'true'">
-    <PackageVersion>0.9.1.$([System.DateTime]::UtcNow.ToString(MMddHHmmss))</PackageVersion>
+    <PackageVersion>1.0.0.$([System.DateTime]::UtcNow.ToString(MMddHHmmss))</PackageVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)' == 'Release'">
-    <PackageVersion>0.9.1</PackageVersion>
+    <PackageVersion>1.0.0</PackageVersion>
   </PropertyGroup>
   <ItemGroup>
     <None Remove="Designers\OpenFileDialogDesigner.xaml" />
