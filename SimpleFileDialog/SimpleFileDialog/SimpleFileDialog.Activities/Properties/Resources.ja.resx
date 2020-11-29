@@ -242,7 +242,7 @@
     <comment>activity description</comment>
   </data>
   <data name="SelectFolder_DisplayName" xml:space="preserve">
-    <value>フォルダを選択ダイアログを表示</value>
+    <value>フォルダ選択ダイアログを表示</value>
     <comment>activity name</comment>
   </data>
   <data name="SelectFolder_InitialFolderPath_Description" xml:space="preserve">
