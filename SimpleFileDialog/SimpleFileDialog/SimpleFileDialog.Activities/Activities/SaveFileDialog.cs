@@ -28,7 +28,7 @@ namespace SimpleFileDialog.Activities
         [LocalizedCategory(nameof(Resources.Common_Category))]
         [LocalizedDisplayName(nameof(Resources.Timeout_DisplayName))]
         [LocalizedDescription(nameof(Resources.Timeout_Description))]
-        public InArgument<int> TimeoutMS { get; set; } = 60000;
+        public InArgument<int> TimeoutMS { get; set; }
 
         [LocalizedDisplayName(nameof(Resources.SaveFileDialog_Title_DisplayName))]
         [LocalizedDescription(nameof(Resources.SaveFileDialog_Title_Description))]
@@ -94,6 +94,9 @@ namespace SimpleFileDialog.Activities
             var result = string.Empty;
             var dlg = new CommonSaveFileDialog();
 
+            var index = defaultpath.LastIndexOf(@"\");
+            var dotindex = defaultpath.IndexOf(@".", index);
+            if (dotindex < 0) defaultpath = defaultpath + @"\";
 
             if (!string.IsNullOrEmpty(title)) dlg.Title = title;
             if (!string.IsNullOrEmpty(Path.GetDirectoryName(defaultpath))) dlg.InitialDirectory = Path.GetDirectoryName(defaultpath);

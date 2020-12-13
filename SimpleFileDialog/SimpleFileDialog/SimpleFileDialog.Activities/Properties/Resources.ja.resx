@@ -226,7 +226,7 @@
     <comment>property description</comment>
   </data>
   <data name="SaveFileDialog_SelectedFilePath_DisplayName" xml:space="preserve">
-    <value>選択されたフォルダパス</value>
+    <value>選択されたファイルパス</value>
     <comment>property name</comment>
   </data>
   <data name="SaveFileDialog_Title_Description" xml:space="preserve">

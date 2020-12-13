@@ -27,7 +27,7 @@ namespace SimpleFileDialog.Activities
         [LocalizedCategory(nameof(Resources.Common_Category))]
         [LocalizedDisplayName(nameof(Resources.Timeout_DisplayName))]
         [LocalizedDescription(nameof(Resources.Timeout_Description))]
-        public InArgument<int> TimeoutMS { get; set; } = 60000;
+        public InArgument<int> TimeoutMS { get; set; }
 
         [LocalizedDisplayName(nameof(Resources.SelectFolder_Title_DisplayName))]
         [LocalizedDescription(nameof(Resources.SelectFolder_Title_Description))]
@@ -84,6 +84,10 @@ namespace SimpleFileDialog.Activities
             var title = Title.Get(context);
             var defaultpath = InitialFolderPath.Get(context);
 
+            var index = defaultpath.LastIndexOf(@"\");
+            var dotindex = defaultpath.IndexOf(@".", index);
+            if (dotindex < 0) defaultpath = defaultpath + @"\";
+
             var dlg = new CommonOpenFileDialog();
             dlg.IsFolderPicker = true;
             if (!string.IsNullOrEmpty(title)) dlg.Title = title;
@@ -92,7 +96,7 @@ namespace SimpleFileDialog.Activities
             var result = string.Empty;
             if (dlg.ShowDialog() == CommonFileDialogResult.Ok)
             {
-                result = Path.GetDirectoryName(dlg.FileName);
+                result = dlg.FileName;
             }
             return await Task.FromResult(result);
         }
