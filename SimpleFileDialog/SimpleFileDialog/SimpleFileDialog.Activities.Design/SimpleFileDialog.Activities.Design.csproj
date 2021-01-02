@@ -26,10 +26,10 @@ This package provides the ability to display a file and folder selection dialog.
   </PropertyGroup>
   <!-- Package Versions -->
   <PropertyGroup Condition="'$(Configuration)' == 'Debug' AND '$(DesignTimeBuild)' != 'true'">
-    <PackageVersion>1.0.4.$([System.DateTime]::UtcNow.ToString(MMddHHmmss))</PackageVersion>
+    <PackageVersion>1.0.5.$([System.DateTime]::UtcNow.ToString(MMddHHmmss))</PackageVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)' == 'Release'">
-    <PackageVersion>1.0.4</PackageVersion>
+    <PackageVersion>1.0.5</PackageVersion>
   </PropertyGroup>
   <ItemGroup>
     <None Remove="Designers\OpenFileDialogDesigner.xaml" />

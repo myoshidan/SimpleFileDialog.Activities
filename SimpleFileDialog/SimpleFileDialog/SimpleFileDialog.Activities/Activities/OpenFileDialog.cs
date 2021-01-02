@@ -93,10 +93,12 @@ namespace SimpleFileDialog.Activities
             var defaultpath = InitialPath.Get(context);
             var result = string.Empty;
             var dlg = new CommonOpenFileDialog();
-
-            var index = defaultpath.LastIndexOf(@"\");
-            var dotindex = defaultpath.IndexOf(@".", index);
-            if (dotindex < 0) defaultpath = defaultpath + @"\";
+            if (!string.IsNullOrEmpty(defaultpath))
+            {
+                var index = defaultpath.LastIndexOf(@"\");
+                var dotindex = defaultpath.IndexOf(@".", index);
+                if (dotindex < 0) defaultpath = defaultpath + @"\";
+            }
 
             if (!string.IsNullOrEmpty(title)) dlg.Title = title;
             if (!string.IsNullOrEmpty(Path.GetDirectoryName(defaultpath))) dlg.InitialDirectory = Path.GetDirectoryName(defaultpath);

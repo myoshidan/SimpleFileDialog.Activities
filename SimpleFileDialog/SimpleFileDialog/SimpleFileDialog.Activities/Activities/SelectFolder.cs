@@ -84,9 +84,12 @@ namespace SimpleFileDialog.Activities
             var title = Title.Get(context);
             var defaultpath = InitialFolderPath.Get(context);
 
-            var index = defaultpath.LastIndexOf(@"\");
-            var dotindex = defaultpath.IndexOf(@".", index);
-            if (dotindex < 0) defaultpath = defaultpath + @"\";
+            if (!string.IsNullOrEmpty(defaultpath))
+            {
+                var index = defaultpath.LastIndexOf(@"\");
+                var dotindex = defaultpath.IndexOf(@".", index);
+                if (dotindex < 0) defaultpath = defaultpath + @"\";
+            }
 
             var dlg = new CommonOpenFileDialog();
             dlg.IsFolderPicker = true;
