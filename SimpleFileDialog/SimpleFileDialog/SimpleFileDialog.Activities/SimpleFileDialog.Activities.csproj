@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFrameworks>net461</TargetFrameworks>
 		<RootNamespace>SimpleFileDialog.Activities</RootNamespace>
@@ -10,7 +10,7 @@
     <DocumentationFile>bin\$(Configuration)\SimpleFileDialog.Activities.xml</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.WindowsAPICodePack-Shell" Version="1.1.0" />
+    <PackageReference Include="Microsoft.WindowsAPICodePack-Shell" Version="1.1.0" IncludeAssets="All" PrivateAssets="All" />
   </ItemGroup>
 	<ItemGroup>
 		<Reference Include="System" />
